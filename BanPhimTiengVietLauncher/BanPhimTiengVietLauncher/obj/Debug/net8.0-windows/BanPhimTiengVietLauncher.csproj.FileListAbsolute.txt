@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\bin\Debug\net8.0-windows\BanPhimTiengVietLauncher.exe
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\bin\Debug\net8.0-windows\BanPhimTiengVietLauncher.deps.json
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\bin\Debug\net8.0-windows\BanPhimTiengVietLauncher.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\bin\Debug\net8.0-windows\BanPhimTiengVietLauncher.dll
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\bin\Debug\net8.0-windows\BanPhimTiengVietLauncher.pdb
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.Form1.resources
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.dll
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\refint\BanPhimTiengVietLauncher.dll
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.pdb
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\BanPhimTiengVietLauncher.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncher\BanPhimTiengVietLauncher\obj\Debug\net8.0-windows\ref\BanPhimTiengVietLauncher.dll

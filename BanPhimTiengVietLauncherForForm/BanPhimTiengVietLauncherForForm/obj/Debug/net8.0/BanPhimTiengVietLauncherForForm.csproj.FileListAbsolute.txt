@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\bin\Debug\net8.0\BanPhimTiengVietLauncherForForm.exe
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\bin\Debug\net8.0\BanPhimTiengVietLauncherForForm.deps.json
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\bin\Debug\net8.0\BanPhimTiengVietLauncherForForm.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\bin\Debug\net8.0\BanPhimTiengVietLauncherForForm.dll
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\bin\Debug\net8.0\BanPhimTiengVietLauncherForForm.pdb
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.dll
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\refint\BanPhimTiengVietLauncherForForm.dll
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.pdb
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\BanPhimTiengVietLauncherForForm.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\BanPhimTiengVietLauncherForForm\BanPhimTiengVietLauncherForForm\obj\Debug\net8.0\ref\BanPhimTiengVietLauncherForForm.dll
